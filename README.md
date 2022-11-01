@@ -31,7 +31,7 @@ Numbers are for the example render above on an Intel(R) Core(TM) i7-2640M CPU @
 
 This ray tracer is based on and inspired by Matt Taylor's
 [cmake-raytracer](https://github.com/64/cmake-raytracer/blob/master/README.md).
-In addition to not supporting floating point values, like CMake, Meson does not
+In addition to not supporting floating point values like CMake, Meson does not
 allow user defined functions, and all objects are immutable.  It also does not
 have while loops, only python-style for loops.
 
