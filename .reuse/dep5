@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: meson-raytracer
+Upstream-Contact: Stone Tickle <lattis@mochiro.moe>
+Source: https://github.com/annacrombie/meson-raytracer
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...

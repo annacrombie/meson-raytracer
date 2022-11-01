@@ -1,1 +1,4 @@
+# SPDX-FileCopyrightText: Stone Tickle <lattis@mochiro.moe>
+# SPDX-License-Identifier: MIT
+
 option('dim', type: 'integer', value: 64)

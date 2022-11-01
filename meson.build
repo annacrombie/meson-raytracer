@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: Stone Tickle <lattis@mochiro.moe>
+# SPDX-License-Identifier: MIT
+
 project('ray', version: 'tracer', meson_version: '>=0.60.0')
 
 dim = get_option('dim')

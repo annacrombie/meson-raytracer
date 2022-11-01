@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: Stone Tickle <lattis@mochiro.moe>
+SPDX-License-Identifier: MIT
+-->
+
 # meson ray tracer
 
 A simple ray tracer written in the meson.build language.
