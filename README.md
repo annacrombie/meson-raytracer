@@ -22,10 +22,10 @@ The output will be located at `build/output.ppm`.
 Numbers are for the example render above on an Intel(R) Core(TM) i7-2640M CPU @
 2.80GHz with 16G of memory.
 
-| implementation | runtime |
-| -------------- | ------- |
-| muon           | 15m13s  |
-| Meson          | ...     |
+| implementation | time      |
+| -------------- | --------- |
+| Meson          | 20h57m19s |
+| muon           |    15m13s |
 
 ## implementation
 
